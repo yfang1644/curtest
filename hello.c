@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
         printf("%f\n", x);
     } else {
         printf("command line invalid\n");
-        return 1;
+        return 2;
     }
 	return 0;
 }
